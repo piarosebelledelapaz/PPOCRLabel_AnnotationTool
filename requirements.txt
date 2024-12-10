@@ -1,0 +1,4 @@
+pymupdf
+pillow
+paddlepaddle
+PPOCRLabel==2.1.3
